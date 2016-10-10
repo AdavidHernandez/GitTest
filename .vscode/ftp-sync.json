@@ -1,0 +1,16 @@
+{
+    "remotePath": "./",
+    "host": "ftp.webcindario.com",
+    "username": "testgit",
+    "password": "proyecto011arth",
+    "port": 21,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}
